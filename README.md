@@ -27,19 +27,19 @@ I forked this project to update vex version to the latest (version 2.3.2)
 ## Installation
 Add this line to your application's Gemfile:
 
-```
+```sh
 gem 'vex_rails', github: 'anthony-robin/vex_rails'
 ```
 
 And then execute:
 
-```
+```sh
 bundle
 ```
 
 Or install it yourself as:
 
-```
+```sh
 gem install vex_rails
 ```
 
