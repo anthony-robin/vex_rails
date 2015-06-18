@@ -53,9 +53,9 @@ vex.defaultOptions.className = 'vex-theme-os'
 ```
 
 ```scss
-// In your application.css
-//= require vex.css 
-//= require vex-theme-os.css
+// In your application.scss
+@import vex
+@import vex-theme-os
 ```
 
 That will give you all of the APIs for both Vex and Vex Dialog, and set you up with the "Operating System" theme. If you'd prefer another theme, check out [Themes].
